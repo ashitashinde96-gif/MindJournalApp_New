@@ -1,0 +1,19 @@
+{
+  "session": [
+    {
+      "text": "Close your eyes and take a deep breath",
+      "image": "assets/images/breath.jpg",
+      "audio": "assets/audio/breath.mp3"
+    },
+    {
+      "text": "Stretch your arms slowly",
+      "image": "assets/images/stretch.jpg",
+      "audio": "assets/audio/relax_nature.mp3"
+    },
+    {
+      "text": "Relax your shoulders and smile",
+      "image": "assets/images/smile.jpg",
+      "audio": "assets/audio/stress.mp3"
+    }
+  ]
+}
